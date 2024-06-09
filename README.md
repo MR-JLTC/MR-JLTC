@@ -1,6 +1,5 @@
 <h1 align="center">GREETINGS! 👋</h1>
-<h3 align="center">I'm your fellow enthusiast,</h3>
-<h3 align="center">soon to be a Software Developer or Cybersecurity professional.</h3>
+<h3 align="center">I'm your fellow enthusiast,<br>soon to be a Software Developer or Cybersecurity professional.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mr-jltc&label=Profile%20views&color=0e75b6&style=flat" alt="mr-jltc" /> </p>
 
