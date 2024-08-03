@@ -16,6 +16,7 @@
 - ⚡ Fun fact **I'm an Independent & Self-taught Developer/.**
 
 <h3 align="left">Connect with me:</h3>
+<a href="mr-jltc.github.io/jltc_portfolio/">JLTC_Portfolio</a>
 <p align="left">
 <a href="https://linkedin.com/in/jhon-lloyd-t-cruz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jhon-lloyd-t-cruz" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/24929622" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="24929622" height="30" width="40" /></a>
