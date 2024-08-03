@@ -14,7 +14,7 @@
 - 📫 How to reach me **darkages38@gmail.com**
 
 - ⚡ Fun fact **I'm an Independent & Self-taught Developer/.**
-<h3 align="left">
+<h3 align="left">Visit my portfolio</h3>
 <a href="https://mr-jltc.github.io/JLTC_PORTFOLIO/">JLTC_Portfolio</a>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
