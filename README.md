@@ -88,15 +88,7 @@ I'm an **independent, self-taught developer** based in the Philippines, driven b
 ## 🏆 Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mr-jltc&theme=tokyonight&no-frame=true&margin-w=4&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B" alt="GitHub Trophies" onerror="this.style.display='none'"/>
-</div>
-
-<div align="center">
-
-| 🌟 Multi-Language | 🔨 Self-Taught Builder | 🛡️ Security-Minded | 📱 Cross-Platform |
-|:-:|:-:|:-:|:-:|
-| 15+ languages & frameworks | Independent developer | Cybersecurity focus | Web, Mobile & Desktop |
-
+  <img src="https://github-profile-trophy.vercel.app/?username=MR-JLTC&theme=tokyonight&no-frame=true&margin-w=6&column=7" />
 </div>
 
 ---
@@ -105,7 +97,7 @@ I'm an **independent, self-taught developer** based in the Philippines, driven b
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌍%20Portfolio-JLTC_Portfolio-00d4aa?style=for-the-badge)](https://mr-jltc.github.io/JLTC_PORTFOLIO/)
+[![Portfolio](https://img.shields.io/badge/🌍%20Portfolio-JLTC_Portfolio-00d4aa?style=for-the-badge)](https://cipher-portfolio.onrender.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-jhon--lloyd--t--cruz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jhon-lloyd-t-cruz)
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-24929622-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/24929622)
 [![Facebook](https://img.shields.io/badge/Facebook-johncipher3301-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/johncipher3301)
