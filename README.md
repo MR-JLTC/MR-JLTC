@@ -84,13 +84,13 @@ I'm an **independent, self-taught developer** based in the Philippines, driven b
 </div>
 
 ---
-
-## 🏆 Achievements
-
+🏆 GitHub Achievements
 <div align="center">
-  <img src="./assets/trophy.svg" alt="GitHub Trophies" />
+<img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="80" title="YOLO"/>
+<img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="80" title="Pull Shark"/>
+<img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="80" title="Quickdraw"/>
+YOLO  ·  Pull Shark  ·  Quickdraw
 </div>
-
 ---
 
 ## 🌐 Let's Connect
