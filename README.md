@@ -103,11 +103,11 @@ I'm an **independent, self-taught developer** based in the Philippines, driven b
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌍%20Portfolio-JLTC_Portfolio-00d4aa?style=for-the-badge)](https://mr-jltc.github.io/JLTC_PORTFOLIO/)
+[![Portfolio](https://img.shields.io/badge/🌍%20Portfolio-JLTC_Portfolio-00d4aa?style=for-the-badge)](https://cipher-portfolio.onrender.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-jhon--lloyd--t--cruz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jhon-lloyd-t-cruz)
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-24929622-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/24929622)
-[![Facebook](https://img.shields.io/badge/Facebook-johncipher3301-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/johncipher3301)
-[![Email](https://img.shields.io/badge/Email-darkages38@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:darkages38@gmail.com)
+[![Facebook](https://img.shields.io/badge/Facebook-ur.jhontheempire-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/ur.jhontheempire)
+[![Email](https://img.shields.io/badge/Email-loydcipher@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:loydcipher@gmail.com)
 
 </div>
 
