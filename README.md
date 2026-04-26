@@ -85,10 +85,18 @@ I'm an **independent, self-taught developer** based in the Philippines, driven b
 
 ---
 
-## 🏆 Trophies
+## 🏆 Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mr-jltc&theme=tokyonight&no-frame=true&margin-w=8&row=1" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=mr-jltc&theme=tokyonight&no-frame=true&margin-w=4&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B" alt="GitHub Trophies" onerror="this.style.display='none'"/>
+</div>
+
+<div align="center">
+
+| 🌟 Multi-Language | 🔨 Self-Taught Builder | 🛡️ Security-Minded | 📱 Cross-Platform |
+|:-:|:-:|:-:|:-:|
+| 15+ languages & frameworks | Independent developer | Cybersecurity focus | Web, Mobile & Desktop |
+
 </div>
 
 ---
