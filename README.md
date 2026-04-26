@@ -84,20 +84,26 @@ I'm an **independent, self-taught developer** based in the Philippines, driven b
 </div>
 
 ---
-🏆 GitHub Achievements
+
+## 🏆 GitHub Achievements
+
 <div align="center">
+
 <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="80" title="YOLO"/>
 <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="80" title="Pull Shark"/>
 <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="80" title="Quickdraw"/>
-YOLO  ·  Pull Shark  ·  Quickdraw
+
+**YOLO** &nbsp;·&nbsp; **Pull Shark** &nbsp;·&nbsp; **Quickdraw**
+
 </div>
+
 ---
 
 ## 🌐 Let's Connect
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌍%20Portfolio-JLTC_Portfolio-00d4aa?style=for-the-badge)](https://cipher-portfolio.onrender.com/)
+[![Portfolio](https://img.shields.io/badge/🌍%20Portfolio-JLTC_Portfolio-00d4aa?style=for-the-badge)](https://mr-jltc.github.io/JLTC_PORTFOLIO/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-jhon--lloyd--t--cruz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jhon-lloyd-t-cruz)
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-24929622-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/24929622)
 [![Facebook](https://img.shields.io/badge/Facebook-johncipher3301-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/johncipher3301)
