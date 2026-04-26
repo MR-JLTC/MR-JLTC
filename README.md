@@ -102,7 +102,7 @@ I'm an **independent, self-taught developer** based in the Philippines, driven b
 ## 🌐 Let's Connect
 
 <div align="center">
-
+<sub>💡 Tip: Right-click any link → Open in new tab</sub>
 <a href="https://cipher-portfolio.onrender.com/" target="_blank"><img src="https://img.shields.io/badge/🌍%20Portfolio-JLTC_Portfolio-00d4aa?style=for-the-badge"/></a>
 <a href="https://linkedin.com/in/jhon-lloyd-t-cruz" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-jhon--lloyd--t--cruz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://stackoverflow.com/users/24929622" target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow-24929622-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/></a>
