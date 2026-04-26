@@ -4,9 +4,9 @@
 ### Full-Stack Developer in the Making · Cybersecurity Enthusiast · Self-Taught
 
 [![Profile Views](https://komarev.com/ghpvc/?username=mr-jltc&label=Profile+Views&color=00d4aa&style=flat-square)](https://github.com/mr-jltc)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-00d4aa?style=flat-square&logo=githubpages&logoColor=white)](https://mr-jltc.github.io/JLTC_PORTFOLIO/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-00d4aa?style=flat-square&logo=githubpages&logoColor=white)](https://cipher-portfolio.onrender.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/jhon-lloyd-t-cruz)
-[![Email](https://img.shields.io/badge/Email-darkages38@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:darkages38@gmail.com)
+[![Email](https://img.shields.io/badge/Email-loydcipher@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:loydcipher@gmail.com)
 
 </div>
 
