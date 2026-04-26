@@ -88,7 +88,7 @@ I'm an **independent, self-taught developer** based in the Philippines, driven b
 ## 🏆 Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MR-JLTC&theme=tokyonight&no-frame=true&margin-w=6&column=7" />
+  <img src="./assets/trophy.svg" alt="GitHub Trophies" />
 </div>
 
 ---
