@@ -98,6 +98,7 @@ I'm an **independent, self-taught developer** based in the Philippines, driven b
 
 </div>
 
+<!-- 
 ---
 
 ## 🌐 Let's Connect
@@ -109,10 +110,10 @@ I'm an **independent, self-taught developer** based in the Philippines, driven b
 <a href="https://web.facebook.com/ur.jhontheempire" target="_blank"><img src="https://img.shields.io/badge/Facebook-ur.jhontheempire-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
 <a href="https://leetcode.com/u/lVCMG4zPVi/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat-square&logo=leetcode&logoColor=white"/></a>
 <a href="mailto:loydcipher@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-loydcipher@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-
-</div>
-
 ---
+</div> -->
+
+
 
 <div align="center">
   <i>Open to opportunities, collaborations, and good conversations. Don't hesitate to reach out!</i>
