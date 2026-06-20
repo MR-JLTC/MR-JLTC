@@ -103,10 +103,11 @@ I'm an **independent, self-taught developer** based in the Philippines, driven b
 ## 🌐 Let's Connect
 
 <div align="center">
-<a href="https://cipher-portfolio.onrender.com/" target="_blank"><img src="https://img.shields.io/badge/🌍%20Portfolio-JLTC_Portfolio-00d4aa?style=for-the-badge"/></a>
-<a href="https://linkedin.com/in/jhon-lloyd-t-cruz" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-jhon--lloyd--t--cruz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://jltc.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/🌍%20Portfolio-JLTC_Portfolio-00d4aa?style=for-the-badge"/></a>
+<a href="https://www.linkedin.com/in/jhon-lloyd-t-cruz-3359b1403/)" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-jhon--lloyd--t--cruz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://stackoverflow.com/users/24929622" target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow-24929622-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/></a>
 <a href="https://web.facebook.com/ur.jhontheempire" target="_blank"><img src="https://img.shields.io/badge/Facebook-ur.jhontheempire-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+<a href="https://leetcode.com/u/lVCMG4zPVi/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat-square&logo=leetcode&logoColor=white"/></a>
 <a href="mailto:loydcipher@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-loydcipher@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 </div>
